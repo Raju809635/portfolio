@@ -208,7 +208,7 @@ function App() {
             </div>
 
             <div className="reveal self-center rounded-3xl border border-slate-100/10 bg-slate-900/60 p-6 shadow-2xl backdrop-blur">
-              <img src="/ggg.jpg" alt="Raju Bomma" className="mb-5 h-28 w-28 rounded-2xl object-cover" />
+              <img src="/raju.jpg" alt="Raju Bomma" className="mb-5 h-28 w-28 rounded-2xl object-cover" />
               <h2 className="text-xl font-semibold text-slate-100">Founder Profile</h2>
               <p className="mt-3 text-sm leading-relaxed text-slate-300">
                 Product-minded developer building startup-ready technology from concept to MVP and beyond.
